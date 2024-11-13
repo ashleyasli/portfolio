@@ -11,7 +11,7 @@ const About =()=>{
    <Tilt className="Tilt center" options={{ max : 85 }} style={{ height: 125, width: 125 }} >
    <div className="Tilt-inner center"><img alt='pic'src={aslihan} className="br-100 h4 w4 dib" /> </div>
    </Tilt>
-   <h1 className="f4">{'Aslihan(Ashley) Saylik'}</h1>
+   <h1 className="f4">{'Aslihan(Ashley) Celik'}</h1>
     <hr className="mw3 bb bw1 b--black-10" />
   </div>
   <p className="lh-copy measure center f6 black-70 animated fadeInRight">
